@@ -8,9 +8,10 @@
     padding: 25px;
     }
     
-    .galeria img:hover {
+    img:hover {
     border:5px solid #f7f7f7
     }
+
     body{
     background: #ffe259;
     background: linear-gradient(to right, #ffa751,#ffe259);
